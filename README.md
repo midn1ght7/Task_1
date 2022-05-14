@@ -1,6 +1,6 @@
 # OpenX Python Developer Internship - Task 1
 
-To make a easy to read way of the sellers I decided to make a Flask App since it's lightweight and easy to install.
+To show sellers in an easy to read way, I decided to make a Flask App since it's lightweight, easy to install and I can present the sellers in HTML.
 Here is a quickstart tutorial:
 https://flask.palletsprojects.com/en/2.1.x/quickstart/
 
